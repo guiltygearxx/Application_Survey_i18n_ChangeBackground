@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/language_vn"
+        android:title="Ngôn ngữ Việt Nam"/>
+    <item
+        android:id="@+id/language_en"
+        android:title="English Language"/>
+    <item
+        android:id="@+id/change_background"
+        android:title="Change Background Color"/>
+</menu>
